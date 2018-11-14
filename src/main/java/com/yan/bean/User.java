@@ -4,7 +4,7 @@ import org.springframework.stereotype.Component;
 
 @Component("user")
 public class User {
-	//第二个人修改
+	//第二个人修改,合并第一个人的
     private String name;
     private Integer age;
 
